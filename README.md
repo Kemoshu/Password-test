@@ -1,11 +1,28 @@
-# Hi, I'm Kevin Pierce Chan Ramos
+Password Strength Checker
+Overview
+This repository contains a password strength checker tool developed by Kevin Pierce Chan Ramos during his academic studies. The project aims to evaluate the strength of user-inputted passwords using various programming methods.
 
-I'm a passionate data analyst with experience in C++, Python, SQL, and machine learning. I enjoy transforming complex datasets into actionable insights.
+Features
+Analyzes password strength based on defined criteria.
 
-## 🛠️ Skills
-- Python, SQL, Java, C++
-- Machine Learning, Data Visualization
-- Git, Docker
+Provides feedback to help users create stronger passwords.
 
-## 📘 Projects
-- Password Checker, this project would evaluate the user's input 
+Files
+main.py: Main script to run the password strength evaluation.
+
+strength_checker.py: Contains the core logic for assessing password strength.
+
+README.md: Provides an overview of the project and the author's background.
+
+Author
+Kevin Pierce Chan Ramos
+
+A passionate data analyst with experience in:
+
+Programming Languages: Python, SQL, Java, C++
+
+Skills: Machine Learning, Data Visualization
+
+Tools: Git, Docker
+
+Kevin enjoys transforming complex datasets into actionable insights.
